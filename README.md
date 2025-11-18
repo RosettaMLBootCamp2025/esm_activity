@@ -235,9 +235,9 @@ rms_print af2, esmfold
 
 ---
 
-## Part 4: Exploring ESMFold Features ⭐ OPTIONAL - Advanced Users
+## Part 4: Exploring ESMFold Features ⭐ OPTIONAL - If You're Ahead
 
-**⏰ Due to time constraints, this section is optional. Come back to it later if you want to explore ESMFold more deeply!**
+**⏰ Due to time constraints, this section is optional. Only do this if you finish the core activity early, or come back to it later if you want to explore ESMFold more deeply!**
 
 **Goal:** Understand ESMFold-specific capabilities and parameters.
 
