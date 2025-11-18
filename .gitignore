@@ -1,0 +1,8 @@
+# Mac system files
+.DS_Store
+
+# Claude Code configuration
+.claude/
+
+# Activity notes (not for students)
+ESMfold_Activity.md
